@@ -1,0 +1,27 @@
+body {
+    background: #eee;
+}
+
+.container {
+    width: 350px;
+    border: solid gray 1px;
+    border-radius: 5px;
+    margin: 100px auto;
+    background: white;
+    padding-bottom: 50px;
+    text-align: center;
+
+}
+
+#btn {
+    color: #fff;
+    background: #337ab7;
+    padding: 5px;
+    margin: auto;
+    width: 60%;
+}
+
+.text-a {
+    text-decoration: none;
+    font-size: 20px;
+}

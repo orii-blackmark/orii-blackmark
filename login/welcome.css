@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(01.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: bisque;
+}
+
+.nav-bar1 {
+    background-color: blue;
+}
+
+.nav-bar1 ul {
+    list-style-type: none;
+    display: inline-flex;
+    margin-left: 50%;
+}
+
+.nav-bar1 ul li {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    padding: 10px 10px 10px 15px;
+    background-color: cadetblue;
+    border-radius: 8px;
+}
+
+.nav-bar1 ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.logo {
+    position: relative;
+    margin: 0;
+    padding-left: 40px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+fieldset {
+    /* height: 50vh;*/
+    width: 80%;
+    margin: auto;
+    font-size: 25px;
+    text-align: center;
+    background-color: rgb(73, 157, 196);
+}
+
+.voter-details {
+    float: inline-start;
+    width: 45%;
+    height: 100%;
+    padding: 20px;
+    background-color: rgb(139, 54, 179);
+    justify-content: space-between;
+}
+
+.cast-details {
+    float: inline-start;
+    width: 45%;
+    padding: 20px;
+    background-color: rgb(41, 41, 46);
+}
+
+.submit {
+    width: 250px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    margin-top: 10px;
+    background-color: rgb(63, 114, 177);
+    color: white;
+    border: solid 2px #34556378;
+    border-radius: 8px;
+}
+
+.submit:hover {
+    background-color: white;
+    color: blue;
+    border: solid 4px #34556378;
+
+}
+
+.header01 {
+    font-size: 40px;
+}
+
+.gender {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
