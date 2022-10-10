@@ -8,7 +8,7 @@
 - 📫 How to reach me on:
 - instagram @black_mark9
 - twitter @blackmark
-- whatsapp me @+254114019366
+- whatsapp me @+254758997669
 - 
 
 <!---
